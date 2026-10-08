@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 7d6ee71fc5df4dd47a3315518406c80d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8571280555082255381
+    second: WatermelonProjectile_0
+  - first:
+      213: -7326568293508511292
+    second: WatermelonProjectile_1
+  - first:
+      213: -6718609115339763320
+    second: WatermelonProjectile_2
+  - first:
+      213: 2026156979142907056
+    second: WatermelonProjectile_3
+  - first:
+      213: 826499059687949257
+    second: WatermelonProjectile_4
+  - first:
+      213: -3129707412902554195
+    second: WatermelonProjectile_5
+  - first:
+      213: -2624601811885125308
+    second: WatermelonProjectile_6
+  - first:
+      213: -6975140058808299767
+    second: WatermelonProjectile_7
+  - first:
+      213: 4551080630657414802
+    second: WatermelonProjectile_8
+  - first:
+      213: -3570211482306469580
+    second: WatermelonProjectile_9
+  - first:
+      213: 6834603365422508073
+    second: WatermelonProjectile_10
+  - first:
+      213: 2719282025179338358
+    second: WatermelonProjectile_11
+  - first:
+      213: -3044349410822077224
+    second: WatermelonProjectile_12
+  - first:
+      213: -159930149678608799
+    second: WatermelonProjectile_13
+  - first:
+      213: -3221584366554471147
+    second: WatermelonProjectile_14
+  - first:
+      213: -1939936924783476227
+    second: WatermelonProjectile_15
+  - first:
+      213: -360042880736056042
+    second: WatermelonProjectile_16
+  - first:
+      213: -973750799213127203
+    second: WatermelonProjectile_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WatermelonProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 919
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c04e3904e43f670800000000000000
+      internalID: 8571280555082255381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 885
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c909c274fcc25a90800000000000000
+      internalID: -7326568293508511292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 919
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881d8773b94b2c2a0800000000000000
+      internalID: -6718609115339763320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 933
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4ddf8990b5e1c10800000000000000
+      internalID: 2026156979142907056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 925
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c305eb0480587b00800000000000000
+      internalID: 826499059687949257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 883
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5590b90bb0194d0800000000000000
+      internalID: -3129707412902554195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 887
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4419dbdce8a839bd0800000000000000
+      internalID: -2624601811885125308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 912
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f42288213533f90800000000000000
+      internalID: -6975140058808299767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 871
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296fe7e88bfa82f30800000000000000
+      internalID: 4551080630657414802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 1267
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4312a18929f047ec0800000000000000
+      internalID: -3570211482306469580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 815
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a2b0bc8369de50800000000000000
+      internalID: 6834603365422508073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 663
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6765be23894dcb520800000000000000
+      internalID: 2719282025179338358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 401
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4c7cb275c40c5d0800000000000000
+      internalID: -3044349410822077224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_13
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 401
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e088f4060d7cdf0800000000000000
+      internalID: -159930149678608799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 111
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515a1995612aa43d0800000000000000
+      internalID: -3221584366554471147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_15
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 100
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df10e9725a5f315e0800000000000000
+      internalID: -1939936924783476227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_16
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 85
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61da1d558eed00bf0800000000000000
+      internalID: -360042880736056042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatermelonProjectile_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 87
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd91629aeca8c72f0800000000000000
+      internalID: -973750799213127203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WatermelonProjectile_0: 8571280555082255381
+      WatermelonProjectile_1: -7326568293508511292
+      WatermelonProjectile_10: 6834603365422508073
+      WatermelonProjectile_11: 2719282025179338358
+      WatermelonProjectile_12: -3044349410822077224
+      WatermelonProjectile_13: -159930149678608799
+      WatermelonProjectile_14: -3221584366554471147
+      WatermelonProjectile_15: -1939936924783476227
+      WatermelonProjectile_16: -360042880736056042
+      WatermelonProjectile_17: -973750799213127203
+      WatermelonProjectile_2: -6718609115339763320
+      WatermelonProjectile_3: 2026156979142907056
+      WatermelonProjectile_4: 826499059687949257
+      WatermelonProjectile_5: -3129707412902554195
+      WatermelonProjectile_6: -2624601811885125308
+      WatermelonProjectile_7: -6975140058808299767
+      WatermelonProjectile_8: 4551080630657414802
+      WatermelonProjectile_9: -3570211482306469580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

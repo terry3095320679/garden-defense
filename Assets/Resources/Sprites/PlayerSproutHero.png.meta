@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: f96be3dc92369944abd06d71ff3fe84e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5957124039127202129
+    second: PlayerSproutHero_0
+  - first:
+      213: 9187819689645056139
+    second: PlayerSproutHero_1
+  - first:
+      213: 226276976385092560
+    second: PlayerSproutHero_2
+  - first:
+      213: -400614932022842490
+    second: PlayerSproutHero_3
+  - first:
+      213: -5436604185727967762
+    second: PlayerSproutHero_4
+  - first:
+      213: 1708226534664703395
+    second: PlayerSproutHero_5
+  - first:
+      213: 5825290479795212800
+    second: PlayerSproutHero_6
+  - first:
+      213: -3991356284685825535
+    second: PlayerSproutHero_7
+  - first:
+      213: 8645467329321055571
+    second: PlayerSproutHero_8
+  - first:
+      213: 9137280761483630454
+    second: PlayerSproutHero_9
+  - first:
+      213: 80135396787801523
+    second: PlayerSproutHero_10
+  - first:
+      213: -678141474428439342
+    second: PlayerSproutHero_11
+  - first:
+      213: 3469147460957947010
+    second: PlayerSproutHero_12
+  - first:
+      213: -4581176262651888029
+    second: PlayerSproutHero_13
+  - first:
+      213: 2274688419646073174
+    second: PlayerSproutHero_14
+  - first:
+      213: -8963407698911816563
+    second: PlayerSproutHero_15
+  - first:
+      213: 2051644792084009704
+    second: PlayerSproutHero_16
+  - first:
+      213: 3043948115944581754
+    second: PlayerSproutHero_17
+  - first:
+      213: -5795656755694691285
+    second: PlayerSproutHero_18
+  - first:
+      213: -4721769782444325427
+    second: PlayerSproutHero_19
+  - first:
+      213: -2592169830804850980
+    second: PlayerSproutHero_20
+  - first:
+      213: -5716193519928072727
+    second: PlayerSproutHero_21
+  - first:
+      213: 4058364428121973242
+    second: PlayerSproutHero_22
+  - first:
+      213: -3043693164220518711
+    second: PlayerSproutHero_23
+  - first:
+      213: -7680041536957280603
+    second: PlayerSproutHero_24
+  - first:
+      213: 7645399637329133141
+    second: PlayerSproutHero_25
+  - first:
+      213: -2027292936189117128
+    second: PlayerSproutHero_26
+  - first:
+      213: 4217389072491834661
+    second: PlayerSproutHero_27
+  - first:
+      213: 7837691564641338070
+    second: PlayerSproutHero_28
+  - first:
+      213: 4078989795486304316
+    second: PlayerSproutHero_29
+  - first:
+      213: -5979602713387834432
+    second: PlayerSproutHero_30
+  - first:
+      213: 6005146441910503957
+    second: PlayerSproutHero_31
+  - first:
+      213: 3783986457400029041
+    second: PlayerSproutHero_32
+  - first:
+      213: 3115727358894295125
+    second: PlayerSproutHero_33
+  - first:
+      213: -8832365862227047255
+    second: PlayerSproutHero_34
+  - first:
+      213: 3522786849846796123
+    second: PlayerSproutHero_35
+  - first:
+      213: -3046666695571614358
+    second: PlayerSproutHero_36
+  - first:
+      213: 2652989918922455913
+    second: PlayerSproutHero_37
+  - first:
+      213: -6369118869080487436
+    second: PlayerSproutHero_38
+  - first:
+      213: -2016324877104104531
+    second: PlayerSproutHero_39
+  - first:
+      213: 4050134717061107358
+    second: PlayerSproutHero_40
+  - first:
+      213: 7315900891160119854
+    second: PlayerSproutHero_41
+  - first:
+      213: -709843632760514687
+    second: PlayerSproutHero_42
+  - first:
+      213: -6731794748906719055
+    second: PlayerSproutHero_43
+  - first:
+      213: 838027488899765197
+    second: PlayerSproutHero_44
+  - first:
+      213: -2824738515321046505
+    second: PlayerSproutHero_45
+  - first:
+      213: 1554276164794873820
+    second: PlayerSproutHero_46
+  - first:
+      213: -4182267942450898822
+    second: PlayerSproutHero_47
+  - first:
+      213: 7545558050218335824
+    second: PlayerSproutHero_48
+  - first:
+      213: -714282011130733964
+    second: PlayerSproutHero_49
+  - first:
+      213: 4428689155024716956
+    second: PlayerSproutHero_50
+  - first:
+      213: -7795822174838977340
+    second: PlayerSproutHero_51
+  - first:
+      213: -3336640235897073385
+    second: PlayerSproutHero_52
+  - first:
+      213: -3674261992650340363
+    second: PlayerSproutHero_53
+  - first:
+      213: 8118246770002485584
+    second: PlayerSproutHero_54
+  - first:
+      213: 5733417984411942844
+    second: PlayerSproutHero_55
+  - first:
+      213: 6581654971716369921
+    second: PlayerSproutHero_56
+  - first:
+      213: -6010257109312598501
+    second: PlayerSproutHero_57
+  - first:
+      213: 7926953883087328117
+    second: PlayerSproutHero_58
+  - first:
+      213: 5081270128800946797
+    second: PlayerSproutHero_59
+  - first:
+      213: 6334940307279305120
+    second: PlayerSproutHero_60
+  - first:
+      213: -278227877142148699
+    second: PlayerSproutHero_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSproutHero_0
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1097
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159fd1b50c4fba250800000000000000
+      internalID: 5957124039127202129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1157
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8022ad1451b18f70800000000000000
+      internalID: 9187819689645056139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1142
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db684e06b5e32300800000000000000
+      internalID: 226276976385092560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68baf0587dab07af0800000000000000
+      internalID: -400614932022842490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1127
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed58452c4d4d84b0800000000000000
+      internalID: -5436604185727967762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1143
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad06929bf6d4b710800000000000000
+      internalID: 1708226534664703395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1140
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00298a1e3d697d050800000000000000
+      internalID: 5825290479795212800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1111
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a474f2b9adb98c0800000000000000
+      internalID: -3991356284685825535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1138
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3553d69fabedaf770800000000000000
+      internalID: 8645467329321055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1125
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6771e31f0742ece70800000000000000
+      internalID: 9137280761483630454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1095
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc87308b2bc1100800000000000000
+      internalID: 80135396787801523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1113
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4bb350ce1c696f0800000000000000
+      internalID: -678141474428439342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_12
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1125
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284c8d34c33e42030800000000000000
+      internalID: 3469147460957947010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1074
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebe2316746c60c0800000000000000
+      internalID: -4581176262651888029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 1309
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e2bbd011519f10800000000000000
+      internalID: 2274688419646073174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_15
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1084
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d841c5120349b9380800000000000000
+      internalID: -8963407698911816563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1074
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2927d7118e87c10800000000000000
+      internalID: 2051644792084009704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 729
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa8951fa64e3a20800000000000000
+      internalID: 3043948115944581754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 609
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c99bc23e0b19fa0800000000000000
+      internalID: -5795656755694691285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_19
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 594
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc58b3e5667e87eb0800000000000000
+      internalID: -4721769782444325427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 596
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67465d543c60cd0800000000000000
+      internalID: -2592169830804850980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 570
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e52c4187400ca0b0800000000000000
+      internalID: -5716193519928072727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 463
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1aa4bf1f4325830800000000000000
+      internalID: 4058364428121973242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_23
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 514
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cee95d7131a2c5d0800000000000000
+      internalID: -3043693164220518711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_24
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 498
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae8a69a9e20b6590800000000000000
+      internalID: -7680041536957280603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 433
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e37ec867ae91a60800000000000000
+      internalID: 7645399637329133141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 438
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83df9cac0db9dd3e0800000000000000
+      internalID: -2027292936189117128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 401
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d6d79440d278a30800000000000000
+      internalID: 4217389072491834661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 401
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2c581c3f215cc60800000000000000
+      internalID: 7837691564641338070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38876a8b9b7b9830800000000000000
+      internalID: 4078989795486304316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 419
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36e82730f240da0800000000000000
+      internalID: -5979602713387834432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 318
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ac64e4fd0965350800000000000000
+      internalID: 6005146441910503957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 246
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa73472ab638430800000000000000
+      internalID: 3783986457400029041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 240
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5584cdb66894d3b20800000000000000
+      internalID: 3115727358894295125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac8baf4b022d6580800000000000000
+      internalID: -8832365862227047255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 247
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1984b9f373e030800000000000000
+      internalID: 3522786849846796123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 218
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65d07548c018b5d0800000000000000
+      internalID: -3046666695571614358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 235
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb01e664051d420800000000000000
+      internalID: 2652989918922455913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 226
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9483432285c97a0800000000000000
+      internalID: -6369118869080487436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 236
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab3d6c05339404e0800000000000000
+      internalID: -2016324877104104531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 230
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e87ee0118f43830800000000000000
+      internalID: 4050134717061107358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 208
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a0095691d478560800000000000000
+      internalID: 7315900891160119854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 180
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1879c371af02626f0800000000000000
+      internalID: -709843632760514687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 172
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8339aa75cd392a0800000000000000
+      internalID: -6731794748906719055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 176
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc312e3af8541ab00800000000000000
+      internalID: 838027488899765197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 156
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71abce259438cc8d0800000000000000
+      internalID: -2824738515321046505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7747ddfe5e19510800000000000000
+      internalID: 1554276164794873820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78d5b6077995f5c0800000000000000
+      internalID: -4182267942450898822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_48
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 77
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e5a5f811537b860800000000000000
+      internalID: 7545558050218335824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_49
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 69
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad9199b4c5616f0800000000000000
+      internalID: -714282011130733964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_50
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 79
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948fd1825dd57d30800000000000000
+      internalID: 4428689155024716956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_51
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc0c98390dafc390800000000000000
+      internalID: -7795822174838977340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 19
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711541c326fd1b1d0800000000000000
+      internalID: -3336640235897073385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_53
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 17
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f78b5c4f26620dc0800000000000000
+      internalID: -3674261992650340363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_54
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e5fccc6ec9a070800000000000000
+      internalID: 8118246770002485584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfb5b5a741319f40800000000000000
+      internalID: 5733417984411942844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 31
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e765f535cb65b50800000000000000
+      internalID: 6581654971716369921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_57
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e08a6b007479ca0800000000000000
+      internalID: -6010257109312598501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 33
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d250de82320e60800000000000000
+      internalID: 7926953883087328117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 31
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6adbfaa24c448640800000000000000
+      internalID: 5081270128800946797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9dfa045aa3ae750800000000000000
+      internalID: 6334940307279305120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSproutHero_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c4584839832cf0800000000000000
+      internalID: -278227877142148699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerSproutHero_0: 5957124039127202129
+      PlayerSproutHero_1: 9187819689645056139
+      PlayerSproutHero_10: 80135396787801523
+      PlayerSproutHero_11: -678141474428439342
+      PlayerSproutHero_12: 3469147460957947010
+      PlayerSproutHero_13: -4581176262651888029
+      PlayerSproutHero_14: 2274688419646073174
+      PlayerSproutHero_15: -8963407698911816563
+      PlayerSproutHero_16: 2051644792084009704
+      PlayerSproutHero_17: 3043948115944581754
+      PlayerSproutHero_18: -5795656755694691285
+      PlayerSproutHero_19: -4721769782444325427
+      PlayerSproutHero_2: 226276976385092560
+      PlayerSproutHero_20: -2592169830804850980
+      PlayerSproutHero_21: -5716193519928072727
+      PlayerSproutHero_22: 4058364428121973242
+      PlayerSproutHero_23: -3043693164220518711
+      PlayerSproutHero_24: -7680041536957280603
+      PlayerSproutHero_25: 7645399637329133141
+      PlayerSproutHero_26: -2027292936189117128
+      PlayerSproutHero_27: 4217389072491834661
+      PlayerSproutHero_28: 7837691564641338070
+      PlayerSproutHero_29: 4078989795486304316
+      PlayerSproutHero_3: -400614932022842490
+      PlayerSproutHero_30: -5979602713387834432
+      PlayerSproutHero_31: 6005146441910503957
+      PlayerSproutHero_32: 3783986457400029041
+      PlayerSproutHero_33: 3115727358894295125
+      PlayerSproutHero_34: -8832365862227047255
+      PlayerSproutHero_35: 3522786849846796123
+      PlayerSproutHero_36: -3046666695571614358
+      PlayerSproutHero_37: 2652989918922455913
+      PlayerSproutHero_38: -6369118869080487436
+      PlayerSproutHero_39: -2016324877104104531
+      PlayerSproutHero_4: -5436604185727967762
+      PlayerSproutHero_40: 4050134717061107358
+      PlayerSproutHero_41: 7315900891160119854
+      PlayerSproutHero_42: -709843632760514687
+      PlayerSproutHero_43: -6731794748906719055
+      PlayerSproutHero_44: 838027488899765197
+      PlayerSproutHero_45: -2824738515321046505
+      PlayerSproutHero_46: 1554276164794873820
+      PlayerSproutHero_47: -4182267942450898822
+      PlayerSproutHero_48: 7545558050218335824
+      PlayerSproutHero_49: -714282011130733964
+      PlayerSproutHero_5: 1708226534664703395
+      PlayerSproutHero_50: 4428689155024716956
+      PlayerSproutHero_51: -7795822174838977340
+      PlayerSproutHero_52: -3336640235897073385
+      PlayerSproutHero_53: -3674261992650340363
+      PlayerSproutHero_54: 8118246770002485584
+      PlayerSproutHero_55: 5733417984411942844
+      PlayerSproutHero_56: 6581654971716369921
+      PlayerSproutHero_57: -6010257109312598501
+      PlayerSproutHero_58: 7926953883087328117
+      PlayerSproutHero_59: 5081270128800946797
+      PlayerSproutHero_6: 5825290479795212800
+      PlayerSproutHero_60: 6334940307279305120
+      PlayerSproutHero_61: -278227877142148699
+      PlayerSproutHero_7: -3991356284685825535
+      PlayerSproutHero_8: 8645467329321055571
+      PlayerSproutHero_9: 9137280761483630454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
