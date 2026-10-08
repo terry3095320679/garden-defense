@@ -1,6 +1,6 @@
 # GARDEN DEFENSE
 
-GARDEN DEFENSE is a small 2D arena shooter created for CPSC 386 Project 1. The player controls a sprout guardian on the left side of a garden arena, automatically fires toward enemies entering from the right, collects coins and diamonds, and chooses temporary weapon upgrades during each run. Coins and diamonds can also purchase permanent upgrades from the main menu.
+GARDEN DEFENSE is a small 2D arena shooter. The player controls a sprout guardian on the left side of a garden arena, automatically fires toward enemies entering from the right, collects coins and diamonds, and chooses temporary weapon upgrades during each run. Coins and diamonds can also purchase permanent upgrades from the main menu.
 
 ## Project Information
 
