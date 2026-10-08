@@ -4,7 +4,7 @@ GARDEN DEFENSE is a small 2D arena shooter created for CPSC 386 Project 1. The p
 
 ## Project Information
 
-- Unity version: **Unity 6.3 LTS (6000.3.23f1)**
+- Unity version: **Unity 6 LTS
 - Render pipeline: **Universal Render Pipeline 2D**
 - Target build: **Windows**
 - Orientation: **16:9 landscape**
