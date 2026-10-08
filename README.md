@@ -84,21 +84,6 @@ GARDEN DEFENSE is a small 2D arena shooter created for CPSC 386 Project 1. The p
 - Projectile count cap: 3 projectiles
 - Run upgrade thresholds: 10 kills, then 15, 20, and so on
 
-## Third-Party Resources and Assistance
-
-- Unity Technologies packages: Input System, URP/2D Renderer, Tilemap, Tilemap Extras, UGUI, and TextMesh Pro.
-- TextMesh Pro's bundled Liberation Sans font is used for UI text.
-- Character, enemy, projectile, pickup, explosion, and terrain raster artwork was generated specifically for this project with OpenAI image-generation tools, then imported, cropped/configured, and integrated into Unity for this game.
-- OpenAI Codex assisted with C# implementation, debugging, project organization, UI setup, documentation, and code review. Game rules, balance decisions, theme, layout, and feature direction were selected and iterated by the student.
-- No third-party tutorial code was copied directly into the project.
-
-## Opening the Source Project
-
-1. Install Unity **6000.3.23f1** with Windows Build Support.
-2. Clone this repository.
-3. Open the repository folder in Unity Hub.
-4. Open `Assets/Scenes/MainMenu.unity` and enter Play Mode.
-
 Unity regenerates `Library`, `Temp`, `Obj`, `Logs`, and `UserSettings`; these folders are intentionally excluded from Git.
 
 ## Building
