@@ -2,7 +2,7 @@
 
 ## Repository
 
-GitHub: `TO_BE_ADDED_AFTER_REPOSITORY_CREATION`
+GitHub: https://github.com/terry3095320679/garden-defense
 
 ## Playable Build
 
@@ -20,4 +20,3 @@ Upload the separately tested `GardenDefense_Windows.zip` archive to Canvas. The 
 8. **Lighting/material:** Gameplay visibly uses URP Light2D components, a pulsing light, lit material, and glowing diamond pickup.
 
 See `README.md` for the complete script summary, scene/game-object description, controls, setup, and third-party resource disclosure required by the rubric.
-
